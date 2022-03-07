@@ -1,0 +1,8 @@
+/* Mi CSS */
+.logo-img {
+    display: block;
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    object-position: center;
+}
