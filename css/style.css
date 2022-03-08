@@ -15,6 +15,10 @@
     left: 0;
 }
 
+.banner {
+    height: 35vh;
+}
+
 #menu-navbar a:hover i,
 #menu-navbar a:hover p{
     color: #1C658C;
