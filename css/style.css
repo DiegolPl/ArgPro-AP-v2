@@ -9,6 +9,7 @@
 
 .height-navbar {
     height: 84.5vh;
+    z-index: 100;
 }
 
 .left-0 {
@@ -22,6 +23,16 @@
 #menu-navbar a:hover i,
 #menu-navbar a:hover p{
     color: #1C658C;
+}
+
+.perfil-photo {
+    top: -75px;
+    /* transform: translate(-50%,50%); */
+}
+
+.perfil-data {
+    height: 200px;
+    padding-top: 50px;
 }
 
 @media (min-width: 992px){
